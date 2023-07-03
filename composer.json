@@ -1,0 +1,23 @@
+{
+    "name": "nioxlan-elsevier/pruebaspkg",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "NioxlanElsevier\\Pruebaspkg\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nioxlan-elsevier",
+            "email": "darias@nioxlan.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "NioxlanElsevier\\Pruebaspkg\\ServiceProvider"
+            ]
+        }
+    },
+}
