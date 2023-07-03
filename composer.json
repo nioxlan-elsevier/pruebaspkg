@@ -12,12 +12,11 @@
             "email": "darias@nioxlan.com"
         }
     ],
-    "require": {},
     "extra": {
         "laravel": {
             "providers": [
                 "NioxlanElsevier\\Pruebaspkg\\ServiceProvider"
             ]
         }
-    },
+    }
 }
