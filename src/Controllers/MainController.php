@@ -1,5 +1,5 @@
 <?php
-namespace NioxlanElsevier\Pruebaspkg;
+namespace NioxlanElsevier\Pruebaspkg\Controllers;
 
 
 use App\Http\Controllers\Controller;
